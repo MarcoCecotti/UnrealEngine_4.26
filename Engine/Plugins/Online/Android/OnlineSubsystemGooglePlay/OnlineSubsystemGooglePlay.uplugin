@@ -8,7 +8,7 @@
 	"Category" : "Online Platform",
 	"CreatedBy" : "Epic Games, Inc.",
 	"CreatedByURL" : "http://epicgames.com",
-	"EnabledByDefault" : true,
+	"EnabledByDefault" : false,
 	"SupportedTargetPlatforms": [
 		"Android"
 	],
